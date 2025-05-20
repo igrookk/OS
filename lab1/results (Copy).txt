@@ -1,0 +1,100 @@
+{
+	"dnslog": [
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856332 1451001682.894400 10.47.144.132 43301 10.122.64.60 53 sprod1 1 10 0 524289 5105 aD.D6FNPtWT3mFvuqjtxDLoD8DK7ubbdzi6sQeQEi.s06.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856374 1451001682.058516 10.1.178.208 36004 10.122.64.60 53 sprod1 1 10 0 524289 1960 br.U4uBHtRHmB8yG6G9p7V45I8Wrj2uCAsoGJF4SslzbqRVDjsR5X8JxtrCg6EjU4u.xLG9tszyeJaKZpXkgnY8pStYmA0H43Ex.s10.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856388 1451001682.098897 10.1.178.208 36004 10.122.64.60 53 sprod1 1 10 0 524289 1963 aD.DXg7ikBDqj8PSxguU8NfLUygLPzZgugkkHaVqgtO.s10.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856389 1451001682.098881 10.1.178.208 36004 10.122.64.60 53 sprod1 1 10 0 524289 1962 aD.DHZOM9ztDtVoMJ6aUilcFjoKKPzZgugkkHaVqgtO.s10.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856417 1451001682.198274 10.1.178.208 36004 10.122.64.60 53 sprod1 1 10 0 524289 1967 aD.DkmLTVV9o9f4WvUOlN7KUhflNPzZgugkkHaVqgtO.s10.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856464 1451001682.396615 10.47.144.132 43301 10.122.64.60 53 sprod1 1 10 0 524289 5073 aD.Da2ftX7PH24stN7rD6wioZGHSubbdzi6sQeQEi.s06.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856465 1451001682.396582 10.47.144.132 43301 10.122.64.60 53 sprod1 1 10 0 524289 5067 bM.UmaBihLmUIYWCmpKjgq5zKKRfVkfULu710qRqQLoZP5GHAZORaulp7LFOQrze.S1ow2IHZgYWzuSZn3VF2WuEe334MRVvoJYpTEXNuJxocPIS2AhDrY6nOTokd.s06.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856468 1451001682.396642 10.47.144.132 43301 10.122.64.60 53 sprod1 1 10 0 524289 5077 cF.UFYfS91EvlkEMaazD5M9nY7kUF0D4H8p7zqrRI42oKf9kwGRRaulp7LFOQrze.UbbPsb7ya7eYTcTM8mZj4r9UfR6fDWPiWoqgoL4o91eFEGj1TzRKNu4qOA6UTBb.RSEJpGbhAUXixBFl6b7OmeYNXuhqcTkb2q3820TZwa9wvuIWrhWQefJDte.s06.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856578 1451001682.989459 10.98.131.43 17375 10.122.64.60 53 sprod1 1 1 3 524289 8841 qipskimmejengkz. 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856580 1451001682.998529 10.98.131.43 31504 10.122.64.60 53 sprod1 1 1 3 524289 50188 ipdvdnefrfouhhi. 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856587 1451001682.873919 10.116.74.176 41280 10.122.64.60 53 sprod1 1 10 0 524289 2577 aD.DTtiIojp8PEtwND37FzI8msllq0EUbzQJQtktgtO.s24.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107856589 1451001682.989474 10.98.131.43 29202 10.122.64.60 53 sprod1 1 1 3 524289 48777 ctjbkfgcb. 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107918870 1451001683.098976 10.1.178.208 36004 10.122.64.60 53 sprod1 1 10 0 524289 1970 aD.D4ZvPAQu5VqcAqj64stx92KTOPzZgugkkHaVqgtO.s10.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2107918888 1451001683.133717 10.47.144.132 43301 10.122.64.60 53 sprod1 1 10 0 524289 5107 aD.DayYvn6CDbxGLmmIWHiGXjZM8ubbdzi6sQeQEi.s06.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2115127670 1451001811.306497 10.119.76.168 56570 10.122.64.60 53 sprod1 1 10 0 524289 22065 aD.Dn3jHIHbgeErk361ufXBDMwjHs7fT690bAkNtgtO.s37.1yf.de. product-tunnels-policy-1 1"
+		}
+,
+		{
+			"timestamp": "telecom-provider",
+			"client ip": "vnode",
+			"url": "2115127713 1451001811.671963 10.30.135.249 38783 10.122.64.60 53 sprod2 1 1 3 524289 30572 trqwktja. 1"
+		}
+
+	]
+}
